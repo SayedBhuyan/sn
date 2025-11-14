@@ -27,6 +27,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     "sn-02ce.onrender.com",
+    "shohoznikah.com",
+    "www.shohoznikah.com",
 ]
 
 
