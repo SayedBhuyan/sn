@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Local settings / secrets
+.env
+*.env
+config.ini
+
+# Static files (collected)
+staticfiles/
+static/
+media/
+
+# Migrations (optional — usually keep them)
+# */migrations/
+# Uncomment above ONLY if you intentionally want to ignore migrations.
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Byte-compiled / packaged
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
