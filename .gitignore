@@ -25,7 +25,6 @@ config.ini
 
 # Static files (collected)
 staticfiles/
-static/
 media/
 
 # Migrations (optional — usually keep them)
